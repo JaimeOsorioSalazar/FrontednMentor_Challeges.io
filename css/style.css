@@ -11,12 +11,12 @@
 }
 body {
   background-color: var(--Yellow);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 section {
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     cursor: pointer;
     font-size: 16px;
     /* font-family: "Jolly Lodger", system-ui; */

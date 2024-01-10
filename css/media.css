@@ -2,5 +2,7 @@
     body{
         background-color: papayawhip;
     }
-    
+    section{
+        height: auto;
+    }
 }
