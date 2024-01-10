@@ -11,11 +11,6 @@
 }
 body {
   background-color: var(--Yellow);
-  /* height: 100vh; */
-  width: 1440px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 section {
     height: 100vh;
