@@ -11,8 +11,11 @@
 }
 body {
   background-color: var(--Yellow);
-  height: 100vh;
-  /* width: 1440px; */
+  /* height: 100vh; */
+  width: 1440px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 section {
     height: 100vh;
@@ -46,7 +49,7 @@ img {
 }
 div.date {
   margin: 10px 0 10px 0;
-  font-size: 14px;
+  font-size: 16px;
 }
 div.button {
   padding: 5px;
